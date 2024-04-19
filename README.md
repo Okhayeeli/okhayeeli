@@ -17,7 +17,7 @@
 #### 👨‍💻Technologies
 
 
-
+  [![Foundry](https://img.shields.io/badge/Foundry-v1.0-333333?logo=https%3A%2F%2Ffoundry.xyz%2Fstatic%2Flogo.svg&logoColor=ffffff)](https://foundry.xyz)
 <p>
     <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
     [![Foundry](https://img.shields.io/badge/Foundry-v1.0-333333?logo=https%3A%2F%2Ffoundry.xyz%2Fstatic%2Flogo.svg&logoColor=ffffff)](https://foundry.xyz)
