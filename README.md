@@ -18,12 +18,14 @@
 
 
   [![Foundry](https://img.shields.io/badge/Foundry-v1.0-333333?logo=https%3A%2F%2Ffoundry.xyz%2Fstatic%2Flogo.svg&logoColor=ffffff)](https://foundry.xyz)
+  ![EVM](https://img.shields.io/badge/Ethereum_Virtual_Machine-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=A6A9AA)
+  ![Web3.js](https://img.shields.io/badge/Web3.js-3776AB?style=for-the-badge&logo=web3.js&logoColor=white)
+  ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-3677FF?style=for-the-badge&logo=openzeppelin&logoColor=white)
 <p>
     <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
-    [![Foundry](https://img.shields.io/badge/Foundry-v1.0-333333?logo=https%3A%2F%2Ffoundry.xyz%2Fstatic%2Flogo.svg&logoColor=ffffff)](https://foundry.xyz)
-    ![EVM](https://img.shields.io/badge/Ethereum_Virtual_Machine-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=A6A9AA)
-    ![Web3.js](https://img.shields.io/badge/Web3.js-3776AB?style=for-the-badge&logo=web3.js&logoColor=white)
-    ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-3677FF?style=for-the-badge&logo=openzeppelin&logoColor=white)
+    
+    
+   
     ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
     <img alt="hardhat" src="https://img.shields.io/badge/-HARDHAT-yellow?style=for-the-badge&logo=https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
     <img alt="web3" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
