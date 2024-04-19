@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Foundry](https://img.shields.io/badge/Foundry-v1.0-333333?logo=https%3A%2F%2Ffoundry.xyz%2Fstatic%2Flogo.svg&logoColor=ffffff)](https://foundry.xyz)
 <!--
 <h4>
     I build on chain Apps
